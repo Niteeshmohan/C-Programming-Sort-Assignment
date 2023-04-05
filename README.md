@@ -37,8 +37,8 @@ Selection Sort works by finding the minimum element from the unsorted part of th
 ## Code:
 ### Bubble sort:
 ``` c
-# Code developed : Mukesh V 
-# Reg-no : 212222230086
+# Code developed : NITEESH M
+# Reg-no : 212222230098
 
 
 #include <stdio.h>
@@ -70,8 +70,8 @@ int main() {
 ```
 ### Insertion sort:
 ``` c
-# Code developed : Mukesh V 
-# Reg-no : 212222230086
+# Code developed : NITEESH M 
+# Reg-no : 212222230098
 
 
 #include <stdio.h>
@@ -104,8 +104,8 @@ int main() {
 ```
 ### Selection sort:
 ``` c
-# Code developed : Mukesh V 
-# Reg-no : 212222230086
+# Code developed : NITEESH M
+# Reg-no : 212222230098
 
 
 #include <stdio.h>
